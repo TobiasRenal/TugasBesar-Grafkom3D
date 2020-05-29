@@ -1,0 +1,356 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        12.885053634643555,
+        -0.99543702602386475,
+        12.548547744750977
+      ],
+      "min": [
+        -12.884904861450195,
+        -10.954306602478027,
+        -12.548547744750977
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99999964237213135,
+        0.99826663732528687,
+        0.99965065717697144
+      ],
+      "min": [
+        -0.99999964237213135,
+        -0.99999457597732544,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99996352195739746,
+        0.99999761581420898,
+        0.99995368719100952,
+        1
+      ],
+      "min": [
+        -0.99999701976776123,
+        -0.99985343217849731,
+        -0.99999880790710449,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99804699420928955,
+        0.99802201986312866
+      ],
+      "min": [
+        0.0019529999699443579,
+        0.0019779999274760485
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 289962,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 43273,
+      "max": [
+        0.17423799633979797,
+        -2.6266469955444336,
+        12.548368453979492
+      ],
+      "min": [
+        -12.885210037231445,
+        -10.607808113098145,
+        -8.8558387756347656
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2092044,
+      "componentType": 5126,
+      "count": 43273,
+      "max": [
+        1,
+        0.93876147270202637,
+        0.99998962879180908
+      ],
+      "min": [
+        -0.99962663650512695,
+        -0.99999809265136719,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 43273,
+      "max": [
+        0.99985069036483765,
+        0.99997705221176147,
+        0.99987906217575073,
+        1
+      ],
+      "min": [
+        -0.9999881386756897,
+        -0.99976038932800293,
+        -0.99994820356369019,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 43273,
+      "max": [
+        0.99804699420928955,
+        0.99802201986312866
+      ],
+      "min": [
+        0.0019529999699443579,
+        0.11473800241947174
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1159848,
+      "componentType": 5125,
+      "count": 160038,
+      "max": [
+        43272
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "thehydrous (https://sketchfab.com/thehydro.us)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/models/754bb17c26f8441bafd78417c0b67b45",
+      "title": "Acropora robusta, Iriomote Japan"
+    },
+    "generator": "Sketchfab-3.22.13",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1800000,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 870440,
+      "byteOffset": 1800000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2611320,
+      "byteOffset": 2670440,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1740880,
+      "byteOffset": 5281760,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7022640,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_0_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.99999535083770752,
+        0.0030548837967216969,
+        -6.0221598687348887e-05,
+        0,
+        0,
+        -0.019709380343556404,
+        -0.999805748462677,
+        0,
+        -0.0030554775148630142,
+        0.99980109930038452,
+        -0.019709289073944092,
+        0,
+        -1.5770000061365863e-07,
+        -6.0925717353820801,
+        -5.9737548828125,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "20170715_Iriomote_Unarizaki_1m_Arobusta_freedive-1.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
